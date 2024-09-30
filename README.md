@@ -19,7 +19,7 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 	or with conda: **conda create -n AQV_env_09_30_24 python=3.8.10**<br/> 
 6. Activate the environment:<br/> 
 	Mac/Linux:**source AQV_env_09_30_24/bin/activate**<br/>
-	Windows:**AQV_env_09_30_24/Scripts/activate**<br/> 
+	Windows:**AQV_env_09_30_24\Scripts\activate**<br/> 
 	or with conda: **conda activate AQV_env_09_30_24**<br/>
 7. Update pip: <br/>
 	**python -m pip install --upgrade pip** <br/>
