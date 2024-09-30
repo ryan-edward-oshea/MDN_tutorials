@@ -28,5 +28,5 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 	
 Common issues:
 1. Unable to install Latex --> add "mpl.rcParams['text.usetex']=False" before generating plots. 
-2. Do not install in Box/Onedrive folder
+2. Do not install MDN wihin Box/Onedrive folder.
 
