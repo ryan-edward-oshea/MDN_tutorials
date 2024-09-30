@@ -17,8 +17,8 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 	Mac/Linux:**source MDN_env_09_30_24/bin/activate**<br/>
 	Windows:**MDN_env_09_30_24/Scripts/activate**<br/> 
 	or with conda: **conda activate MDN_env_09_30_24**<br/>
-5. Update pip
-	**python -m pip install --upgrade pip** 
+5. Update pip <br/>
+	**python -m pip install --upgrade pip** <br/>
 6. Install the MDN into the python environment and update dependencies:<br/> 
 	**pip install git+https://github.com/ryan-edward-oshea/MDN.git@MDN_V3**<br/> 
 7. Start JupyterHub notebook in command line with: <br/> 
@@ -26,7 +26,7 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 8. Open the tutorials: <br/> 
 	./MDN_tutorials/SC_1_.... <br/> 
 	
-Common issues:
-1. Unable to install Latex --> add "mpl.rcParams['text.usetex']=False" before generating plots. 
-2. Do not install MDN wihin Box/Onedrive folder.
+Common issues:<br/>
+1. Unable to install Latex --> add "mpl.rcParams['text.usetex']=False" before generating plots. <br/>
+2. Do not install MDN wihin Box/Onedrive folder.<br/>
 
