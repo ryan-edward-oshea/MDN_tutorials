@@ -14,9 +14,9 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 	**python3.8 -m venv MDN_env_09_30_24**<br/> 
 	or with conda: **conda create -n MDN_env_09_30_24 python=3.8.10**<br/> 
 4. Activate the environment:<br/> 
-	Mac/Linux:**source MDN_env/bin/activate**<br/>
-	Windows:**MDN_env/Scripts/activate**<br/> 
-	or with conda: **conda activate MDN_env**<br/>
+	Mac/Linux:**source MDN_env_09_30_24/bin/activate**<br/>
+	Windows:**MDN_env_09_30_24/Scripts/activate**<br/> 
+	or with conda: **conda activate MDN_env_09_30_24**<br/>
 5. Update pip
 	**python -m pip install --upgrade pip** 
 6. Install the MDN into the python environment and update dependencies:<br/> 
