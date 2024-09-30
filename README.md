@@ -17,7 +17,7 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 	Mac/Linux:**source MDN_env_09_30_24/bin/activate**<br/>
 	Windows:**MDN_env_09_30_24/Scripts/activate**<br/> 
 	or with conda: **conda activate MDN_env_09_30_24**<br/>
-5. Update pip <br/>
+5. Update pip: <br/>
 	**python -m pip install --upgrade pip** <br/>
 6. Install the MDN into the python environment and update dependencies:<br/> 
 	**pip install git+https://github.com/ryan-edward-oshea/MDN.git@MDN_V3**<br/> 
