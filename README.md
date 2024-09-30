@@ -7,10 +7,10 @@ Requirements:<br/>
 	
 	
 Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/> 
-1. Create directory to hold tutorials and environment
-	**mkdir Aquaverse**
-2. Navigate to directory
-	**cd Aquaverse**
+1. Create directory to hold tutorials and environment:<br/> 
+	**mkdir Aquaverse**<br/> 
+2. Navigate to directory:<br/> 
+	**cd Aquaverse**<br/> 
 3. Clone tutorials repo: <br/> 
 	**git clone https://github.com/ryan-edward-oshea/MDN_tutorials.git**<br/> 
 4. Skip if using conda: Install Python 3.8 (preferably 3.8.10 or 3.8.19) <br/> 
