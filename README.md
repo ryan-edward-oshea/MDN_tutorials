@@ -1,7 +1,7 @@
 Provides tutorials for using MDNs with in situ measurements and satellite imagery<br/> 
 Requirements:<br/>
 	-**Conda** or **pip** to create a virtual environment | https://github.com/conda-forge/miniforge or https://docs.anaconda.com/miniconda/ <br/> 
-	-**(if not using Conda) Python V3.8.10** (preferably 3.8.10 or 3.8.19)  <br/> 
+	-**(if not using Conda) Python V3.12**   <br/> 
 	-**git**     | https://github.com/git-guides/install-git <br/> 
 	-**git-lfs** | https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage <br/> 
 	
